@@ -69,11 +69,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenchien1101&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%"/>
 </p>
 
-<!-- 🐱 CAT ANIMATION (FIXED LINK) -->
+<!-- 🐱 CAT ANIMATION (CDN ULTRA STABLE) -->
 <br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eiannone/eiannone/main/cat.gif" width="120" alt="Cyber Cat Walking" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZicTN0OHRtNzg2bTlyNzB2ZnBhZnRpaWNhMWkzcnhxdG1rZWltNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="120" alt="Pixel Cat Walking" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=100&section=footer" width="100%"/>
