@@ -4,6 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=200&section=header&text=Welcome%20to%20My%20Digital%20Workspace!&fontSize=36&fontColor=fff" width="100%"/>
 </p>
 
+<!-- 🐱 CAT ANIMATION SECTION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eiannone/eiannone/main/cat.gif" width="90" alt="Cyber Cat Walking" />
+</p>
+
 ---
 
 ### 💫 About Me
