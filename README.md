@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=200&section=header&text=Welcome%20to%20My%20Digital%20Workspace!&fontSize=36&fontColor=fff" width="100%"/>
 </p>
 
-<!-- 🐱 CAT ANIMATION SECTION -->
+<!-- 🐱 CAT ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eiannone/eiannone/main/cat.gif" width="90" alt="Cyber Cat Walking" />
+  <img src="https://raw.githubusercontent.com/eiannone/eiannone/main/cat.gif" width="100" alt="Cyber Cat Walking" />
 </p>
 
 ---
@@ -73,6 +73,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenchien1101&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%"/>
 </p>
+
+<!-- 🐱 CAT/SNAKE CONTRIBUTION GRAPH -->
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nguyenchien1101/nguyenchien1101/output/github-contribution-grid-snake-dark.svg" alt="Cat eating contribution graph" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=100&section=footer" width="100%"/>
